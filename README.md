@@ -1,11 +1,9 @@
-# MeuApp
+# Codigo
+Implemente um algoritmo em C para gerenciar um estoque de produtos em uma loja, permitindo o cadastro e a venda de produtos. O programa deve seguir os seguintes passos:  
 
-MeuApp é um aplicativo simples que ajuda os usuários a gerenciar suas tarefas diárias. Com uma interface amigável, você pode adicionar, remover e marcar tarefas como concluídas.
-
-## Funcionalidades
-
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Remover tarefas
-- Filtrar tarefas por status (ativas/concluídas)
-
+## Requisitos:
+*Criação da Matriz:*
+Crie uma para armazenar as informações dos produtos:
+ID do produto (inteiro).
+Quantidade em estoque (inteiro).
+Preço do produto (float).
