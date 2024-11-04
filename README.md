@@ -3,7 +3,11 @@ Implemente um algoritmo em C para gerenciar um estoque de produtos em uma loja, 
 
 ## Requisitos:
 *Criação da Matriz:*
+
 Crie uma para armazenar as informações dos produtos:
+
 ID do produto (inteiro).
+
 Quantidade em estoque (inteiro).
+
 Preço do produto (float).
